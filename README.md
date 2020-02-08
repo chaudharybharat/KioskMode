@@ -1,9 +1,9 @@
 # Kiosk
 Application demonstrates basic usage of Android Lock Task mode for creating Kiosk app
 ### Article
-[HOW TO TURN YOUR ANDROID APPLICATION INTO A KIOSK](https://snow.dog/blog/kiosk-mode-android/)
+
 ### Presentation
-[COSU, czyli jak zamienić Androida w kiosk](https://drive.google.com/file/d/1uAX11bXR8aC-sg5VlybGaHo0vmuIw93l/view?usp=sharing)
+
 ### Usage
 1. Make factory reset
 2. Skip adding google acount
